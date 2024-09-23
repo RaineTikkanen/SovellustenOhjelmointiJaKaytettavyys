@@ -1,4 +1,4 @@
-package com.example.viikko2
+package com.example.saasovellus
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -11,7 +11,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 @Composable
-fun topBar(message: String){
+fun TopBar(message: String){
     Text(
         modifier = Modifier
             .fillMaxWidth()
