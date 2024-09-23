@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+@Preview(showBackground = true)
 @Composable
 fun converter (){
     Column(){
