@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tehtava_1</string>
+    <string name="convertButtonText">Muunna</string>
+    <string name="HeaderText">Valuuttamuunnin</string>
+    <string name="startingCurrency">Lähtövaluutta</string>
+    <string name="goalCurrency">Kohdevaluutta</string>
+</resources>

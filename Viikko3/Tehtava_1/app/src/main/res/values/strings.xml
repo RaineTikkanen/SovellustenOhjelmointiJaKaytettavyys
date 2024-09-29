@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tehtava_1</string>
+    <string name="convertButtonText">Convert</string>
+    <string name="HeaderText">Currency converter</string>
+    <string name="startingCurrency">Starting currency</string>
+    <string name="goalCurrency">Goal Currency</string>
+</resources>

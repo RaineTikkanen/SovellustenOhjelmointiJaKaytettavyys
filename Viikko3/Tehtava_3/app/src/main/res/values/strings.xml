@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tehtava_3</string>
+    <string name="AppIntroduction">This app will analyze your blood pressure</string>
+    <string name="AppInstruction">Enter high(systole) and low(diastole) pressure</string>
+    <string name="enter_high_pressure">Enter high pressure</string>
+    <string name="enter_low_pressure">Enter low pressure</string>
+    <string name="NoValues">Enter blood pressure values</string>
+    <string name="ResultHeader">Your blood pressure is:</string>
+    <string name="normal">Normal</string>
+    <string name="elevated">Elevated</string>
+    <string name="high">High</string>
+    <string name="very_high">Very high</string>
+    <string name="extremely_high_see_doctor_immediately">Extremely high. See doctor immediately</string>
+    <string name="Header">Blood pressure analyzer</string>
+</resources>
