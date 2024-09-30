@@ -5,11 +5,11 @@
     <string name="enter_high_pressure">Enter high pressure</string>
     <string name="enter_low_pressure">Enter low pressure</string>
     <string name="NoValues">Enter blood pressure values</string>
-    <string name="ResultHeader">Your blood pressure is:</string>
-    <string name="normal">Normal</string>
-    <string name="elevated">Elevated</string>
-    <string name="high">High</string>
-    <string name="very_high">Very high</string>
-    <string name="extremely_high_see_doctor_immediately">Extremely high. See doctor immediately</string>
-    <string name="Header">Blood pressure analyzer</string>
+    <string name="ResultHeader">Your blood pressure is </string>
+    <string name="normal">normal</string>
+    <string name="elevated">elevated</string>
+    <string name="high">high</string>
+    <string name="very_high">very high</string>
+    <string name="extremely_high_see_doctor_immediately">extremely high. See doctor immediately</string>
+    <string name="Header">blood pressure analyzer</string>
 </resources>

@@ -6,11 +6,11 @@
     <string name="enter_high_pressure">Syötä yläpaine</string>
     <string name="enter_low_pressure">Syötä alapaine</string>
     <string name="NoValues">Syötä verenpainetiedot</string>
-    <string name="ResultHeader">Verenpaineesi on</string>
-    <string name="normal">Normaali</string>
-    <string name="elevated">Koholla</string>
-    <string name="high">Korkea</string>
-    <string name="very_high">Todella korkea</string>
-    <string name="extremely_high_see_doctor_immediately">Äärimmäisen korkea. Ota välittömästi yhteyttä lääkäriin</string>
+    <string name="ResultHeader">Verenpaineesi on </string>
+    <string name="normal">normaali</string>
+    <string name="elevated">lievästi koholla</string>
+    <string name="high">korkea</string>
+    <string name="very_high">todella korkea</string>
+    <string name="extremely_high_see_doctor_immediately">äärimmäisen korkea. Ota välittömästi yhteyttä lääkäriin</string>
     <string name="Header">Verenpaineanalyysi</string>
 </resources>
