@@ -36,6 +36,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.example.restaurantapp.ui.theme.RestaurantAppTheme
+import java.net.HttpURLConnection
 
 
 class MainActivity : ComponentActivity() {
@@ -173,6 +174,8 @@ fun RestaurantInfo(RestaurantName: String? ) {
         Text(text = "Restaurant not found")
     }
 }
+
+
 
 
 
