@@ -117,7 +117,7 @@ object RetrofitInstance{
 
 
 data class ToDoItem(
-    val userID: Int,
+    val userId: Int,
     val id: Int,
     val title: String,
     val completed: Boolean
